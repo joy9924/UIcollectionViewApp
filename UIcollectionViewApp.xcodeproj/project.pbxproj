@@ -13,6 +13,7 @@
 		AE475F5525EBA71B00C51252 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AE475F5325EBA71B00C51252 /* Main.storyboard */; };
 		AE475F5725EBA71C00C51252 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AE475F5625EBA71C00C51252 /* Assets.xcassets */; };
 		AE475F5A25EBA71C00C51252 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AE475F5825EBA71C00C51252 /* LaunchScreen.storyboard */; };
+		AE6DF82625EEA3E700DB8622 /* NewsCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE6DF82525EEA3E700DB8622 /* NewsCollectionViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		AE475F5625EBA71C00C51252 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AE475F5925EBA71C00C51252 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AE475F5B25EBA71C00C51252 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AE6DF82525EEA3E700DB8622 /* NewsCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewsCollectionViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				AE475F5625EBA71C00C51252 /* Assets.xcassets */,
 				AE475F5825EBA71C00C51252 /* LaunchScreen.storyboard */,
 				AE475F5B25EBA71C00C51252 /* Info.plist */,
+				AE6DF82525EEA3E700DB8622 /* NewsCollectionViewCell.swift */,
 			);
 			path = UIcollectionViewApp;
 			sourceTree = "<group>";
@@ -140,6 +143,7 @@
 				AE475F5225EBA71B00C51252 /* ViewController.swift in Sources */,
 				AE475F4E25EBA71B00C51252 /* AppDelegate.swift in Sources */,
 				AE475F5025EBA71B00C51252 /* SceneDelegate.swift in Sources */,
+				AE6DF82625EEA3E700DB8622 /* NewsCollectionViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
